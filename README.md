@@ -1,3 +1,2 @@
 # hello-word
-just a test
-fuck you !
+just a test!
